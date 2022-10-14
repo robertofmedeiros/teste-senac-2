@@ -9,5 +9,7 @@
 <body>
     <h1>FALA GALERA!</h1>
     <h3>Eliton esteve aqui!</h3>
+    <p><a href="#">Clique em Mim</a></p>
+    <img src="https://classic.exame.com/wp-content/uploads/2018/07/baidu.png?w=680">
 </body>
 </html>
