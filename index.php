@@ -10,8 +10,7 @@
     <h1>FALA GALERA!</h1>
     <h3>Eliton esteve aqui!</h3>
     <img src="https://classic.exame.com/wp-content/uploads/2018/07/baidu.png?w=680">
-    <h1>Maiara</h1>
-    <h1>Isabely</h1>
+    
     
 
 </body>
